@@ -15,8 +15,8 @@ built using Pivot Tables, Charts, and Slicers.
 - Data: 51,290 rows × 21 columns
 
 ## Dashboard Features
-- [Describe what the dashboard shows]
+- Dashboard shows month-wise sales & profit trends, region-wise sales comparison, order count by month, and product category breakdown. Includes interactive slicers for filtering by region and ship mode
 - Dynamic filters using Slicers
 
 ## Preview
-[Add a screenshot of your dashboard here!]
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/2ace0b01-8158-44d2-97b6-4b1abf5ed14b" />
